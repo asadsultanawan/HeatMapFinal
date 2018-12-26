@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/startRecording"
+        android:title="Start Recording" />
+    <item
+        android:id="@+id/stopRecording"
+        android:title="Stop Recording" />
+    <item
+        android:id="@+id/showHeatMap"
+        android:title="Show HeatMap" />
+    <item
+        android:id="@+id/loadDatabase"
+        android:title="Load Database" />
+    <item
+        android:id="@+id/deleteDatabase"
+        android:title="Delete Database" />
+    <item
+        android:id="@+id/saveDataToFile"
+        android:title="Save Data to File" />
+    <item
+        android:id="@+id/loadDataFromFile"
+        android:title="Load Data From File" />
+    <item
+        android:id="@+id/cleanData"
+        android:title="Clean Data" />
+    <item
+        android:id="@+id/about"
+        android:title="About" />
+</menu>
